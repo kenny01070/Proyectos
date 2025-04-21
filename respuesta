@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gracias por tu envío</title>
+</head>
+<body>
+
+  <h1>¡Gracias por tu envío!</h1>
+  <p>Nos pondremos en contacto contigo muy pronto.</p>
+
+  <!-- Imagen interactiva con <details> -->
+  <details>
+    <summary>
+      <img 
+        src="https://www.grupobillingham.com/blog/wp-content/uploads/2023/12/felicitaciones-navidenas-750x410.jpg" 
+        alt="Gracias por tu envío">
+    </summary>
+  </details>
+
+</body>
+</html>
